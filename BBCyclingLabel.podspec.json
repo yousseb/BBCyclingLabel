@@ -1,6 +1,6 @@
 {
   "name": "BBCyclingLabel",
-  "version": "1.0",
+  "version": "1.0.1",
   "summary": "BBCyclingLabel is just like a UILabel but allows you to perform custom animations when changing text.",
   "description": "Instead of using two UILabel's and cross fading them, you can use this component and configure it to crossfade; it'll then take care of performing the cross fade for you.\n",
   "homepage": "https://github.com/yousseb/BBCyclingLabel",
