@@ -59,10 +59,10 @@
     _scrollUpLabel.numberOfLines = 1;
     _customLabel.numberOfLines = 1;
 
-    _defaultLabel.textAlignment = UITextAlignmentCenter;
-    _scaleOutLabel.textAlignment = UITextAlignmentCenter;
-    _scrollUpLabel.textAlignment = UITextAlignmentCenter;
-    _customLabel.textAlignment = UITextAlignmentCenter;
+    _defaultLabel.textAlignment = NSTextAlignmentCenter;
+    _scaleOutLabel.textAlignment = NSTextAlignmentCenter;
+    _scrollUpLabel.textAlignment = NSTextAlignmentCenter;
+    _customLabel.textAlignment = NSTextAlignmentCenter;
 
     // Slow so you can get a good look...
     _defaultLabel.transitionDuration = 0.75;
